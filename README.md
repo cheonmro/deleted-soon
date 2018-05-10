@@ -1,5 +1,5 @@
 # Deleted Soon
-
+- 지우기엔 너무나도 아까운 내용들
 ## This repo will be deleted soon.
 
 - Step 1: make change to file
